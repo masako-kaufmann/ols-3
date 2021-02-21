@@ -35,7 +35,12 @@ Before Week 2 (week starting 15 February 2021): Cohort Call (Welcome to Open Lif
 - [ ] Create an issue on the [OLS-3 GitHub repository](https://github.com/open-life-science/ols-3/issues/new) for your OLS work and share the link to your mentor.
 - [ ] Draft a brief vision statement using your goals
 
+our vision statement
+https://docs.google.com/document/d/151i0BrWig9FLTwQg7qm-4FRq_RVgzdBz2E23v4jFvaY/edit
+
   [This lesson](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/) from the Open Leadership Training Series (OLTS) might be helpful
+  
+  
 
 - [ ] Leave a comment on this issue with your draft vision statement & be ready to share this on the call
 - [ ] Check the [Syllabus](https://openlifesci.org/ols-3) for notes and connection info for all the cohort calls.
